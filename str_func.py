@@ -1,9 +1,10 @@
 def str_upper(sentenses):
     """
-    функция делает все буквы заглавными
-     """
+    Данная функция делает все символы с заглавной буквы
+    """
     word_up = sentenses.upper()
     return word_up
+
 
 def str_upper_furst(w):
     """
